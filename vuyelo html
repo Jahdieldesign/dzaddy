@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CHAUKA NOMSA's portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #000000;
+      color: gold;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      font-size: 3em;
+      color: gold;
+    }
+
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 20px auto;
+    }
+
+    .contact {
+      margin-top: 40px;
+      font-size: 1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, I'm Nomsa</h1>
+  <p>
+    I'm a marketing intern, radio lover and future web developer.  
+    This is my portfolio, built with love and fire in black and gold.
+  </p>
+  <div class="contact">
+    <p>Email: chaukenomsa210@gmail.com</p>
+    <p>Phone: 078 950 8916</p>
+  </div>
+</body>
+</html>
